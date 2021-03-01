@@ -39,5 +39,5 @@ function decrement(n){
 }
 
 function makeInt(string){
-  parseInt(2,10)
+  parseInt(n,10)
 }
